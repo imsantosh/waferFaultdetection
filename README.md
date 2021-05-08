@@ -5,4 +5,4 @@ The inputs of various sensors for different wafers have been provided. In elect
 +1 means that the wafer is in a working condition and it doesn’t need to be replaced.
 -1 means that the wafer is faulty and it needs to be replaced. 
 
-## Read the problem statement file located at ###LLD/problem statement.doc
+## Read the problem statement file located at LLD/problem statement.doc
